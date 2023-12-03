@@ -2,6 +2,15 @@
 Retrieve information about your bot
 
 Botingiz haqida ma'lumot olish
+
+{'ok': True,
+ 'result': {'can_join_groups': True,
+            'can_read_all_group_messages': False,
+            'first_name': 'testbot',
+            'id': 5581179119,
+            'is_bot': True,
+            'supports_inline_queries': True,
+            'username': 'syr_test_bot'}}
 """
 
 
