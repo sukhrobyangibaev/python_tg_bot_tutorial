@@ -15,7 +15,7 @@ def main():
     # Application class'ining namunasini yaratish
     application = (
         Application.builder()
-        .token("5581179119:AAFd8Da6TQdmTwtGqdn-3QQp2vcsSDnDEms")
+        .token("")
         .build()
     )
 

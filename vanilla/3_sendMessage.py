@@ -21,7 +21,7 @@ Matnli xabarlarni yuborish usuli
 from pprint import pprint
 import requests
 
-TOKEN = '5581179119:AAFd8Da6TQdmTwtGqdn-3QQp2vcsSDnDEms'
+TOKEN = ''
 
 params = {'chat_id': 1476403327,
           'text': 'test text'}

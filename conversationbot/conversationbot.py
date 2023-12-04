@@ -94,7 +94,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 def main() -> None:
     application = (
         Application.builder()
-        .token("5581179119:AAFd8Da6TQdmTwtGqdn-3QQp2vcsSDnDEms")
+        .token("")
         .build()
     )
 
